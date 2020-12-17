@@ -1,3 +1,2 @@
 # QRCARGO_DEMO
-First Commit
-Implement deep learning in mobile device for real-time CFA image assessment. The developed deep learning model from objective-2 will be converted to a smaller but efficient version that can be implemented in mobile device. The outcome of this objective will be a mobile application that will allow users/doctors to capture images from CFA subjects and provide a normality score such as 1 (normal) - 7 (severe anomaly) about the camera fed images in real-time.   
+ I was involved in a data analytics project at QCRI with Dr. Sanjay Chawla’s research group. As an intern my task were to preprocess Qatar Airways cargo data, build regression model to predict receive cargo weight and to build classifier to infer whether a particular booking will show up or not. This involvement gave me enormous experience to deal with data.
